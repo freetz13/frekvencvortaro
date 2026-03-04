@@ -51,7 +51,7 @@ Nur beletraĵoj originale verkitaj en Esperanto estis analizitaj. Temas pri pli 
 - Zecchin, Armando
 - Zodel, Stephan
 
-Preparo de la frekvencvortaro estis iom pena laboro, kiu envolvis rekodigon de kaose kodigitaj tekstoj, programadon de Python-skriptoj kaj aliaj umadoj, kies priskribo ĉi tie ne estis mia celo.
+Preparo de la frekvencvortaro estis iom pena laboro, kiu envolvis rekodigon de kaose kodigitaj tekstoj, programadon de Python-skriptoj kaj aliajn umadojn, kies priskribo ĉi tie ne estis mia celo.
 
 Ĉe la vortoj estas indikitaj iliaj absolutaj frekvencoj.
 
@@ -71,6 +71,6 @@ Tiu ĉi listo estas ordigita laŭ alfabeto. Ekzistas ankaŭ [listo de plej frekv
 
 [Fonto](http://slavik.babil.komputilo.org/frekvencvortaro-ofteco.html)
 
-Tiu ĉi listo estas ordigita laŭ frekvenco, ĝis absoluta frekvenco dek, inkluzive ĝin. „Ofteco dek“ signifas, ke en la 122 verkoj tiu certe vorto renkonteblas dekfoje. Ekzistas ankaŭ [listo de ĉiuj vortoj, ordigitaj laŭ alfabeto kun indiko de ilia ofteco](http://slavik.babil.komputilo.org/frekvencvortaro.html).
+Tiu ĉi listo estas ordigita laŭ frekvenco, ĝis absoluta frekvenco dek, inkluzive ĝin. „Ofteco dek“ signifas, ke en la 122 verkoj tiu certa vorto renkonteblas dekfoje. Ekzistas ankaŭ [listo de ĉiuj vortoj, ordigitaj laŭ alfabeto kun indiko de ilia ofteco](http://slavik.babil.komputilo.org/frekvencvortaro.html).
 
 *[Sl. Ivanov](http://slavik.ikso.net/), 2001-2003*
