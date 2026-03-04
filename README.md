@@ -73,4 +73,4 @@ Tiu ĉi listo estas ordigita laŭ alfabeto. Ekzistas ankaŭ [listo de plej frekv
 
 Tiu ĉi listo estas ordigita laŭ frekvenco, ĝis absoluta frekvenco dek, inkluzive ĝin. „Ofteco dek“ signifas, ke en la 122 verkoj tiu certa vorto renkonteblas dekfoje. Ekzistas ankaŭ [listo de ĉiuj vortoj, ordigitaj laŭ alfabeto kun indiko de ilia ofteco](http://slavik.babil.komputilo.org/frekvencvortaro.html).
 
-*[Sl. Ivanov](http://slavik.ikso.net/), 2001-2003*
+*Vjaĉeslav Sl. Ivanov (slvk-q), 2001-2003*
